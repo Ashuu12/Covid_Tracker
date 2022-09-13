@@ -1,0 +1,14 @@
+.backdrop {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    margin-top: 200px;
+    align-items: center;
+    z-index: -1;
+    flex-direction: column;
+    gap: 2rem;
+}
